@@ -1,0 +1,15 @@
+.cache
+.classpath
+.project
+.settings
+.DS_Store
+.idea
+*.iml
+target
+temp*
+*no-such-element.*
+test-*
+log4j*.xml
+out/*
+.vscode
+.flattened-pom.xml
